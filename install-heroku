@@ -1,0 +1,2 @@
+#!/bin/sh
+    HEROKU_CLIENT_URL="https://s3.amazonaws.com/assets.heroku.com/heroku-client/heroku-client.tgz"

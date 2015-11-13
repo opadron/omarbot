@@ -1,0 +1,4 @@
+#! /usr/bin/env bash
+
+./bin/hubot --adapter github-adapter --name omarbot
+
