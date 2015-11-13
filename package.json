@@ -5,6 +5,7 @@
   "author": "Omar Padron <omarpadronmail@gmail.com>",
   "description": "@opadron's personal bot",
   "dependencies": {
+    "github": "^0.2.4",
     "hubot": "^2.17.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-github-adapter": "^0.10.0",
